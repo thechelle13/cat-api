@@ -1,0 +1,18 @@
+[
+    {
+        "model": "catproofapi.product",
+        "pk": 1,
+        "fields": {
+            "cat_user": 1,
+            "title": "Product Title 1",
+            "image_url": "https://example.com/image1.jpg",
+            "company": "Company Name",
+            "publication_date": "2023-01-01",
+            "areas": [1,4], 
+            "description": "This product will keep your feline friends from scratching your favorite furniture.",
+            "cost": "99.99",
+            "approved": true
+           
+        }
+    }
+]

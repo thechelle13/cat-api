@@ -1,0 +1,23 @@
+[
+    {
+      "model": "catproofapi.catuser",
+      "pk": 1,
+      "fields": {
+        "bio": "m",
+        "created_on": "2023-11-21T00:00:00Z",
+        "active": true,
+        "user": 1
+      }
+    },
+    {
+      "model": "catproofapi.catuser",
+      "pk": 2,
+      "fields": {
+        "bio": "j",
+        "created_on": "2023-11-27T00:00:00Z",
+        "active": true,
+        "user": 2
+      }
+    }
+  ]
+  

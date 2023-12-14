@@ -1,0 +1,34 @@
+[
+    {
+    "model": "catproofapi.area", 
+    "pk": 1, 
+    "fields": {
+        "label": "Furniture"
+    }
+},
+
+{
+    "model": "catproofapi.area", 
+    "pk": 2, 
+    "fields": {
+        "label": "Toys"
+    }
+}, 
+
+{
+    "model": "catproofapi.area", 
+    "pk": 3, 
+    "fields": {
+        "label": "Litter-box"
+    }
+},
+
+{
+    "model": "catproofapi.area", 
+    "pk": 4, 
+    "fields": {
+        "label": "Cat Proof"
+    }
+}
+
+]
