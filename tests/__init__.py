@@ -1,0 +1,1 @@
+from .area_tests import AreaTests
